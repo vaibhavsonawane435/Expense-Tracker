@@ -7,8 +7,7 @@ filtering transactions, and viewing a real-time summary of their balance.
 ---
 
 ## 📸 Demo / Live Link  
-🔗 **Live Preview:** https://your-project-link.com  
-📂 **Repository Link:** https://github.com/yourusername/expense-tracker  
+📂 **Repository Link:** https://github.com/vaibhavsonawane435/Expense-Tracker.git
 
 ---
 
@@ -95,7 +94,7 @@ Follow these steps to run the project locally.
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/yourusername/expense-tracker.git)
+git clone https://github.com/vaibhavsonawane435/Expense-Tracker.git
 
 2. Navigate to the project directory
 cd expense-tracker
