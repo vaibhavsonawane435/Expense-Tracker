@@ -72,6 +72,7 @@ export default function TransactionForm() {
           <option>Travel</option>
           <option>Shopping</option>
           <option>Entertainment</option>
+          <option>Other</option>
         </select>
 
         <input
