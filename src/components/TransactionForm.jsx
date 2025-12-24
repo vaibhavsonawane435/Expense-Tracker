@@ -81,10 +81,7 @@ export default function TransactionForm() {
           className="p-2 border rounded-lg"
         />
       </div>
-      {
-        form.type === "expense" ?if :
-      }
-
+  
       <button
         disabled={form.category === "choose" }
         className="mt-4 bg-blue-700 hover:bg-blue-800 text-white w-full py-2 rounded-lg font-semibold disabled:opacity-50 disabled:cursor-not-allowed"
